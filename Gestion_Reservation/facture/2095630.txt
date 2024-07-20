@@ -1,0 +1,18 @@
+
+        			Reservation Salle
+=========================================================
+Nom du Client : Ba
+Prenom du Client : Fatou
+Tel du Client : 771234567
+Numero Facture : 2095630
+Date : 02/08/2023
+=========================================================
+    
+
+=========================================================
+Date Debut : 				 27/08/23
+Date Fin : 				 08/09/23
+Nom Salle : 				 Jeux
+Somme Total: 				 19000
+
+

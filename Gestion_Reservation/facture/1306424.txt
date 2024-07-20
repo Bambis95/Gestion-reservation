@@ -1,0 +1,18 @@
+
+
+=========================================================
+Date Debut : 				 31/08/23
+Date Fin : 				 02/09/23
+Nom Salle : 				 Victor
+Somme Total: 				 8000
+
+
+        			Reservation Salle
+=========================================================
+Nom du Client : Ba
+Prenom du Client : Fatou
+Tel du Client : 771234567
+Numero Facture : 1306424
+Date : 01/08/2023
+=========================================================
+    

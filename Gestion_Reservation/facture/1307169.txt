@@ -1,0 +1,18 @@
+
+        			Reservation Salle
+=========================================================
+Nom du Client : Ndome
+Prenom du Client : Ousmane
+Tel du Client : 761760800
+Numero Facture : 1307169
+Date : 01/08/2023
+=========================================================
+    
+
+=========================================================
+Date Debut : 				 19/10/23
+Date Fin : 				 21/10/23
+Nom Salle : 				 Sonko
+Somme Total: 				 -90000
+
+
