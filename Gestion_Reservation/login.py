@@ -44,11 +44,11 @@ class Login:
                 else:
                     if user[0]=="Admin":
                         self.root.destroy()
-                        os.system("python C:/Users/windows 10/OneDrive/Bureau/Gestion_Reservation/administration.py")
+                        os.system("python C:/Gestion_Reservation/administration.py")
 
                     else:
                         self.root.destroy()
-                        os.system("python C:/Users/windows 10/OneDrive/Bureau/Gestion_Reservation/home.py")
+                        os.system("python C:/Gestion_Reservation/home.py")
 
         except Exception as ex:
             messagebox.showerror("Erreur",f"Erreur de connexion {str(ex)}")
