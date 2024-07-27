@@ -79,14 +79,14 @@ class Home:
         self.modifier_contenu()
 
     def page_client(self):
-        os.system("python C:/Users/uthma/OneDrive/TopSecret/Mes_Mini_Projet/Gestion_Reservation/client.py")
+        os.system("python C:/Gestion_Reservation/client.py")
 
 
     def page_plainte(self):
-        os.system("python C:/Users/uthma/OneDrive/TopSecret/Mes_Mini_Projet/Gestion_Reservation/plainte.py")
+        os.system("python C:/Gestion_Reservation/plainte.py")
 
     def page_reservation(self):
-        os.system("python C:/Users/uthma/OneDrive/TopSecret/Mes_Mini_Projet/Gestion_Reservation/reservation.py")
+        os.system("python C:/Gestion_Reservation/reservation.py")
 
         
     def deconnecte(self):
